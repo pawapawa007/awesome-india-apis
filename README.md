@@ -200,6 +200,7 @@
 | Exchange Rate INR | Live INR exchange rates | `None` | [Docs](https://api.exchangerate-api.com/) |
 | CoinGecko | Crypto prices in INR | `None` | [Docs](https://www.coingecko.com/en/api) |
 | Sensex/Nifty Data | BSE/NSE index data | `None` | [Docs](https://api.bseindia.com/) |
+| Tapetide MCP | NSE/BSE quotes, financials, screener and FII/DII flows over MCP | `OAuth` | [Docs](https://tapetide.com/mcp) |
 
 ---
 
